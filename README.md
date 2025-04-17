@@ -97,4 +97,4 @@ The application uses PostgreSQL with Drizzle ORM for:
 
 ## License
 
-MIT License
+Apache License
